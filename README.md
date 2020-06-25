@@ -21,6 +21,19 @@ They may also be obtained through running the following command lines in R after
 
   data("data.hcvHTS", package="HTScapacity")
 
+The raw data for the mucin RNAi and HCV RNAi screens were published originally in 
+
+Zhang, X. D. Optimal High-Throughput Screening: Practical Experimental Design and Data Analysis for Genome-Scale RNAi Research.  (Cambridge University Press, 2011).
+
+and 
+
+Zhang, X. D. et al. The use of strictly standardized mean difference for hit selection in primary RNA interference high-throughput screening experiments. Journal of biomolecular screening 12, 497-509 (2007).
+
+The raw data for the CVB3 CRISPR/CAS9 screen were published originally in 
+
+Kim, H. S. et al. Arrayed CRISPR screen with image-based assay reliably uncovers host genes required for coxsackievirus infection. Genome Res 28, 859-868 (2018).
+
+
 The codes for generating the figures and tables in the paper for assay capacity are stored in the subdirectory "Code.main" in the package.
 
 ## Functions
