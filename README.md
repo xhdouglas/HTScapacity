@@ -21,7 +21,7 @@ They may also be obtained through running the following command lines in R after
 
   data("data.hcvHTS", package="HTScapacity")
 
-The codes for generating the figures and tables in the paper for assay capacity is stored in the subdirectory "Code.main" in the package.
+The codes for generating the figures and tables in the paper for assay capacity are stored in the subdirectory "Code.main" in the package.
 
 ## Functions
 
