@@ -45,7 +45,7 @@ HTScapacity contains the following major functions.
 
 ## Author
 
-  Xiaohua Douglas Zhang, University of Macau and University of Kentucky
+  Xiaohua Douglas Zhang, Ph.D., Professor, University of Macau and University of Kentucky
 
 
 
