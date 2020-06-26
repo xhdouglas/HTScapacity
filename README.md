@@ -9,9 +9,9 @@ devtools::install_github("xhDouglas/HTScapacity")
 
 ## Data
 
-Related datasets are organized in Excel files in the subdirectory "extdata". 
+Related datasets are stored in Excel files in the subdirectory "extdata". 
 
-They may also be obtained through running the following command lines in R after installing HTScapacity
+These data may also be obtained through running the following command lines in R after installing HTScapacity
 
   library(HTScapacity)
 
@@ -23,11 +23,12 @@ They may also be obtained through running the following command lines in R after
 
 The mucin RNAi and HCV RNAi screens were published in 
 
-Zhang, X. D. Optimal High-Throughput Screening: Practical Experimental Design and Data Analysis for Genome-Scale RNAi Research.  (Cambridge University Press, 2011).
+Zhang, X. D. et al. The use of strictly standardized mean difference for hit selection in primary RNA interference high-throughput screening experiments. Journal of biomolecular screening 12, 497-509 (2007).
 
 and 
 
-Zhang, X. D. et al. The use of strictly standardized mean difference for hit selection in primary RNA interference high-throughput screening experiments. Journal of biomolecular screening 12, 497-509 (2007).
+Zhang, X. D. Optimal High-Throughput Screening: Practical Experimental Design and Data Analysis for Genome-Scale RNAi Research.  (Cambridge University Press, 2011).
+ 
 
 The CVB3 CRISPR/CAS9 screen was published originally in 
 
