@@ -24,9 +24,6 @@ These data may also be obtained through running the following command lines in R
 The mucin RNAi and HCV RNAi screens were published in 
 
 Zhang, X. D. et al. The use of strictly standardized mean difference for hit selection in primary RNA interference high-throughput screening experiments. Journal of biomolecular screening 12, 497-509 (2007).
-
-and 
-
 Zhang, X. D. Optimal High-Throughput Screening: Practical Experimental Design and Data Analysis for Genome-Scale RNAi Research.  (Cambridge University Press, 2011).
  
 
