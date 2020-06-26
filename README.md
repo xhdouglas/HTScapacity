@@ -60,6 +60,6 @@ HTScapacity contains the following major functions.
   Xiaohua Douglas Zhang, Ph.D., Professor, University of Macau and University of Kentucky
 
 ## Paper
-  Xiaohua Douglas Zhang, Assay capacity: a new paradigm for assessing and controlling quality in high-throughput screening studies
+  Xiaohua Douglas Zhang. Assay capacity: a new paradigm for assessing and controlling quality in high-throughput screening studies (2020)
 
 
