@@ -53,7 +53,6 @@ HTScapacity contains the following major functions.
 
   FoldHitC.homoVAR.fn
 
-  zFactor.fn
 
 ## Author
 
