@@ -54,11 +54,8 @@ HTScapacity contains the following major functions.
   FoldHitC.homoVAR.fn
 
 
-## Author
-
-  Xiaohua Douglas Zhang, Ph.D., Professor, University of Macau and University of Kentucky
 
 ## Paper
-  Xiaohua Douglas Zhang. Assay capacity: a new paradigm for assessing and controlling quality in high-throughput screening studies (2020)
+  Assay capacity: a new approach for assessing and controlling quality in high-throughput screening studies (2020)
 
 
