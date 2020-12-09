@@ -56,6 +56,6 @@ HTScapacity contains the following major functions.
 
 
 ## Paper
-  Assay capacity: a new approach for assessing and controlling quality in high-throughput screening studies (2020)
+ Assay capacity: a new concept for assessing and controlling quality in high-throughput screening studies
 
 
